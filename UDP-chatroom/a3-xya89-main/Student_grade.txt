@@ -1,0 +1,18 @@
+Grade for using list structure and mutex lock/unlock sequence (Out of 20): 20
+Grade for make file execution (Out of 10): 10
+Grade for using fflush (Out of 5): 0
+Grade for localhost and remote host execution support (Out of 5): 5
+Grade for !exit command execution (Out of 10): 2
+Grade for printing status correctly (Out of 5) : 0
+Grade for support for copy-paste option (Out of 5) : 5
+Grade for support for long characters (Out of 5) : 5
+Grade for memory leakage status (Out of 10) : 10
+Grade for support for clean exit of valgrind (Out of 5) : 5
+Grade for support for 4 threads (Out of 10) : 10
+Grade for support encryption (Out of 10) : 10
+Total Grade is  : 82/100
+TA NAME  : Mugilan Mariappan 
+Comment : Please check your errors. Feel free to visit teaching team OH if you need any help
+1) fflush was not used (-5)
+2) status not implemented (-5)
+3) exit does not work correctly (-8)
