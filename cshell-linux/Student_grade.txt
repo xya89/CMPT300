@@ -1,0 +1,15 @@
+Grade for script mode execution : 0
+Grade for make file execution : 10
+Grade for ls and who command execution  : 10
+Grade for theme (green + purple) command execution : 10
+Grade for log command execution : 8 
+Grade for exit + bye command execution : 10
+Grade for print command execution  : 10
+Total Grade is  : 58/80
+Grade for Bonus Question (Optional)  : 0/20
+TA NAME  : Mugilan Mariappan
+Comment : 
+Script mode not implemented.
+I am surprised you didn't implement it. Most of your code is modular and you only had to read the command-line arguments and parse the file line by line.
+
+log command: Non-built-in commands are not logged
